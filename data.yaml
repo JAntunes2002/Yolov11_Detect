@@ -1,0 +1,8 @@
+train: /home/antunes/OpenCV_Examples/YOLO_CanBottleCarton/data/train/images
+val: /home/antunes/OpenCV_Examples/YOLO_CanBottleCarton/data/valid/images
+test: /home/antunes/OpenCV_Examples/YOLO_CanBottleCarton/data/test/images
+
+nc: 3
+names: ['PlasticBottle', 'metal-can', 'tetrapack']
+
+
